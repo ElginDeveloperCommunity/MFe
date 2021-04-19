@@ -15,7 +15,7 @@ Antes de mais nada, realize a liberação das seguintes portas na rede, tanto no
 * Portas 11118 e 11119, para comunicação interna (caso haja mais de um PDV por MFe)
 
 
-Em sequida, baixe os pacotes abaixo e os instale nesta **exata sequência:
+Em sequida, baixe os pacotes abaixo e os instale nesta **exata sequência**:
 
 1. Driver USB V1.4: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Drivers)
 2. Driver MFE V01.05.14: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Drivers)
