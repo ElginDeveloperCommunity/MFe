@@ -1,0 +1,8 @@
+Dados para ativação do SMART MFe Desenvolvedor
+
+CNPJ Software House : 10615281000140
+Assinatura: CODIGO DE VINCULACAO AC DO MFE-CFE
+CNPJ Contribuinte: 14200166000166
+IE: 1234567890
+IM: 9004029
+Código de ativação: 123456789
