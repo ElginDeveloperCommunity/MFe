@@ -14,6 +14,19 @@ Antes de mais nada, realize a liberação das seguintes portas na rede, tanto no
 * Portas 443 e 9012, para comunicação com a SEFAZ. 
 * Portas 11118 e 11119, para comunicação interna (caso haja mais de um PDV por MFe)
 
+E também dos seguintes endereços:
+* ntp.cais.rnp.br
+* cfews.sefaz.ce.gov.br
+* pg-gateway-client.azurewebsites.net
+* http://www.sefaz.ce.gov.br
+* http://cfe.sefaz.ce.gov.br
+* https://wsmfenacional.fazenda.sp.gov.br/
+* https://wsmfesp.fazenda.sp.gov.br/
+* https://wsmfehomolog.fazenda.sp.gov.br/
+
+Caso esteja usando o Integrador:
+* http://apiintegrador.azurewebsites.net
+* http://integrador.blob.core.windows.net/integrador/
 
 Em sequida, baixe os pacotes abaixo e os instale nesta **exata sequência**:
 
