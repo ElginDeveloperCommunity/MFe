@@ -30,15 +30,15 @@ Caso esteja usando o Integrador:
 
 Em sequida, baixe os pacotes abaixo e os instale nesta **exata sequência**:
 
-1. Driver USB V1.4: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Drivers)
-2. Driver MFE V01.05.14: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Drivers)
-3. SW Ativação V03.1.1.33: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Ativador)
+1. Driver USB V1.4: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Elgin/SMART%20MFe/Drivers)
+2. Driver MFE V01.05.14: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Elgin/SMART%20MFe/Drivers)
+3. SW Ativação V03.1.1.12: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Elgin/SMART%20MFe/Ativador)
 
 Após a instalação, realize o teste no aplicativo comercial.
 <br></br>
 
 ### Documentação
 =================  
-[Documentação](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Documenta%C3%A7%C3%A3o)
+[Documentação](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Elgin/SMART%20MFe/Documenta%C3%A7%C3%A3o)
 
 **IMPORTANTE**: A maior parte destes artefatos foi retirado do site da SEFAZ-CE. Consulte [este](https://cfe.sefaz.ce.gov.br/mfe/informacoes/downloads#/) endereço para a lista completa de aplicativos, documentações, manuais, exemplos, etc.
