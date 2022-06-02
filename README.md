@@ -26,12 +26,14 @@ E também dos seguintes endereços:
 
 Caso esteja usando o Integrador:
 * http://apiintegrador.azurewebsites.net
-* http://integrador.blob.core.windows.net/integrador/
+* http://integrador.blob.core.windows.net/integrador/  
+
+**IMPORTANTE:** Foi anunciada a descontinuidade do integrador em 11/05/22. Estes webservices serão desabilitados em 01/11/22.
 
 Em sequida, baixe os pacotes abaixo e os instale nesta **exata sequência**:
 
 1. Driver USB V1.4: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Elgin/SMART%20MFe/Drivers)
-2. Driver MFE V01.05.14: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Elgin/SMART%20MFe/Drivers)
+2. Driver MFE V01.05.17: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Elgin/SMART%20MFe/Drivers)
 3. SW Ativação V03.1.1.12: [Aqui](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Elgin/SMART%20MFe/Ativador)
 
 Após a instalação, realize o teste no aplicativo comercial.
