@@ -39,6 +39,4 @@ Após a instalação, realize o teste no aplicativo comercial.
 
 ### Documentação
 =================  
-[Documentação](https://github.com/ElginDeveloperCommunity/MFe/tree/master/Elgin/SMART%20MFe/Documenta%C3%A7%C3%A3o)
-
-**IMPORTANTE**: A maior parte destes artefatos foi retirado do site da SEFAZ-CE. Consulte [este](https://cfe.sefaz.ce.gov.br/mfe/informacoes/downloads#/) endereço para a lista completa de aplicativos, documentações, manuais, exemplos, etc.
+A maior parte destes artefatos foi retirado do site da SEFAZ-CE. Consulte [este](https://cfe.sefaz.ce.gov.br/mfe/informacoes/downloads#/) endereço para a lista completa de aplicativos, documentações, manuais, exemplos, etc.
